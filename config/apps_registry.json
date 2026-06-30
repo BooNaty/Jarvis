@@ -1,0 +1,71 @@
+{
+  "chrome": {
+    "names": [
+      "хром",
+      "chrome",
+      "гугл хром",
+      "google chrome",
+      "браузер"
+    ],
+    "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+  },
+  "vscode": {
+    "names": [
+      "vscode",
+      "vs code",
+      "visual studio code"
+    ],
+    "path": "C:\\Users\\natal\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+  },
+  "cursor": {
+    "names": [
+      "cursor",
+      "курсор"
+    ],
+    "path": ""
+  },
+  "telegram": {
+    "names": [
+      "telegram",
+      "телеграм",
+      "телега"
+    ],
+    "path": ""
+  },
+  "spotify": {
+    "names": [
+      "spotify",
+      "спотифай"
+    ],
+    "path": ""
+  },
+  "discord": {
+    "names": [
+      "discord",
+      "дискорд"
+    ],
+    "path": ""
+  },
+  "explorer": {
+    "names": [
+      "проводник",
+      "explorer",
+      "файлы"
+    ],
+    "path": "explorer.exe"
+  },
+  "notepad": {
+    "names": [
+      "блокнот",
+      "notepad"
+    ],
+    "path": "notepad.exe"
+  },
+  "calculator": {
+    "names": [
+      "калькулятор",
+      "calculator"
+    ],
+    "path": "calc.exe"
+  }
+}
